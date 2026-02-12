@@ -16,7 +16,7 @@ A multiplayer spy game for the Trove community! Find the spy among your friends 
 
 1. Clone the repository
 
-git clone https://github.com/TON_USERNAME/trovefall.git
+git clone https://github.com/nzgigi/TroveFall.git
 cd trovefall
 
 2. Install dependencies
